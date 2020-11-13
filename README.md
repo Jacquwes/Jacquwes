@@ -39,6 +39,7 @@ oui
 
 [![oui](https://github-readme-stats.vercel.app/api?username=jacquesatan)](https://oui.sncf)
 [![oui](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquesatan)](https://oui.sncf)
+[![omg](https://github-readme-stats.vercel.app/api/wakatime?username=Jacques)](https://oui.sncf)
 
 c++ is the best web dev is trash
 
