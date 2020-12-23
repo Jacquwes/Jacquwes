@@ -1,3 +1,4 @@
+cool server about c++ https://discord.gg/6Ah7g2p6NB
 # oui
 
 ## oui
