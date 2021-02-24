@@ -42,11 +42,11 @@ oui
 [![oui](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquesatan)](https://oui.sncf)
 <!--START_SECTION:waka-->
 ```text
-C++     10 hrs 10 mins  ████████████░░░░░░░░░░░░░   47.49 % 
-XAML    5 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.02 % 
-C       2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-C#      1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Other   1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+C++        7 hrs 50 mins   ██████████████▒░░░░░░░░░░   57.11 % 
+C          4 hrs 44 mins   ████████▓░░░░░░░░░░░░░░░░   34.51 % 
+CMake      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Markdown   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JSON       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 <!--END_SECTION:waka-->
 < Wakatime is trash doesnt work
