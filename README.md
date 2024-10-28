@@ -1,3 +1,3 @@
-C++, C# and Zig enjoyer, developer of [Trade Buddy](https://www.tradebuddyjournal.com).
+C++ dev
 
-Huge fan of low level and system programming.
+low level and system programming
